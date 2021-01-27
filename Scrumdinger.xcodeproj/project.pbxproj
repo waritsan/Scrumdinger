@@ -14,6 +14,7 @@
 		2B595DEB25C004D700EF2F6D /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B595DEA25C004D700EF2F6D /* Color+Codable.swift */; };
 		2B595DEE25C0050100EF2F6D /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B595DED25C0050100EF2F6D /* DailyScrum.swift */; };
 		2B595DF125C005EC00EF2F6D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B595DF025C005EC00EF2F6D /* CardView.swift */; };
+		2B595DF525C136C300EF2F6D /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B595DF425C136C300EF2F6D /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2B595DEA25C004D700EF2F6D /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		2B595DED25C0050100EF2F6D /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		2B595DF025C005EC00EF2F6D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		2B595DF425C136C300EF2F6D /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +62,9 @@
 			children = (
 				2B595DE925C004D700EF2F6D /* Models */,
 				2B595DD825BFB1D500EF2F6D /* ScrumdingerApp.swift */,
-				2B595DDA25BFB1D500EF2F6D /* MeetingView.swift */,
+				2B595DF425C136C300EF2F6D /* ScrumsView.swift */,
 				2B595DF025C005EC00EF2F6D /* CardView.swift */,
+				2B595DDA25BFB1D500EF2F6D /* MeetingView.swift */,
 				2B595DDC25BFB1DA00EF2F6D /* Assets.xcassets */,
 				2B595DE125BFB1DA00EF2F6D /* Info.plist */,
 				2B595DDE25BFB1DA00EF2F6D /* Preview Content */,
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B595DEE25C0050100EF2F6D /* DailyScrum.swift in Sources */,
+				2B595DF525C136C300EF2F6D /* ScrumsView.swift in Sources */,
 				2B595DDB25BFB1D500EF2F6D /* MeetingView.swift in Sources */,
 				2B595DEB25C004D700EF2F6D /* Color+Codable.swift in Sources */,
 				2B595DD925BFB1D500EF2F6D /* ScrumdingerApp.swift in Sources */,
