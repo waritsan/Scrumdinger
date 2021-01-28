@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B296B8525C26A5700F34041 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B296B8425C26A5700F34041 /* EditView.swift */; };
 		2B595DD925BFB1D500EF2F6D /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B595DD825BFB1D500EF2F6D /* ScrumdingerApp.swift */; };
 		2B595DDB25BFB1D500EF2F6D /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B595DDA25BFB1D500EF2F6D /* MeetingView.swift */; };
 		2B595DDD25BFB1DA00EF2F6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B595DDC25BFB1DA00EF2F6D /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2B296B8425C26A5700F34041 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		2B595DD525BFB1D500EF2F6D /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B595DD825BFB1D500EF2F6D /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		2B595DDA25BFB1D500EF2F6D /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				2B595DD825BFB1D500EF2F6D /* ScrumdingerApp.swift */,
 				2B595DF425C136C300EF2F6D /* ScrumsView.swift */,
 				2BCA6D9225C1871100687C3C /* DetailView.swift */,
+				2B296B8425C26A5700F34041 /* EditView.swift */,
 				2B595DF025C005EC00EF2F6D /* CardView.swift */,
 				2B595DDA25BFB1D500EF2F6D /* MeetingView.swift */,
 				2B595DDC25BFB1DA00EF2F6D /* Assets.xcassets */,
@@ -163,6 +166,7 @@
 			files = (
 				2B595DEE25C0050100EF2F6D /* DailyScrum.swift in Sources */,
 				2B595DF525C136C300EF2F6D /* ScrumsView.swift in Sources */,
+				2B296B8525C26A5700F34041 /* EditView.swift in Sources */,
 				2B595DDB25BFB1D500EF2F6D /* MeetingView.swift in Sources */,
 				2BCA6D9325C1871100687C3C /* DetailView.swift in Sources */,
 				2B595DEB25C004D700EF2F6D /* Color+Codable.swift in Sources */,
