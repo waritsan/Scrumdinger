@@ -46,5 +46,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>You can view the a text transciption of your meeting in the app.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Audio is recorded to transcribe the meeting.</string>
 </dict>
 </plist>
